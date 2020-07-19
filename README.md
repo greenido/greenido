@@ -16,7 +16,7 @@
 
 ### 🏆  Reach me at: **[@greenido](https://twitter.com/greenido)** or [email me](https://ido-green.appspot.com/contact.html)
 
-### 🏁  Fun fact **⛰ - 🏃🏽‍♂️ - 🚴🏽‍♂️ - 🏊🏼‍♂️ - 🏄🏼‍♂️**
+### 🏁  Fun Time: ⛰ - 🏃🏽‍♂️ - 🚴🏽‍♂️ - 🏊🏼‍ - 🏄🏼‍
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=greenido&show_icons=true" alt="greenido" /> </p>
 
