@@ -34,7 +34,7 @@
   </a>
 </center>
 
-#### So far we had ![](http://greenido-github-profile-counter.glitch.me/count.svg) visitors
+#### So far we had (more of less) ![](http://greenido-github-profile-counter.glitch.me/count.svg) visitors 
 
 
-<h3>Be Strong</h3>
+<h3>Be Happy & Strong</h3>
