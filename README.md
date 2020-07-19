@@ -12,7 +12,9 @@
 
 ### 💻  My projects are available at [ido-green.appspot.com](https://ido-green.appspot.com)
 
-### 📒  I write on [greenido.wordpress.com](https://greenido.wordpress.com) and if you wish to sleep better - check my book ["Multithreaded Programs in JavaScript"](https://www.amazon.com/gp/product/1449322131/ref=as_li_ss_il?ie=UTF8&tag=mybuwa-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1449322131)
+### 📒  I write on [greenido.wordpress.com](https://greenido.wordpress.com)
+
+#### If you wish to sleep better - check my book ["Multithreaded Programs in JavaScript"](https://www.amazon.com/gp/product/1449322131/ref=as_li_ss_il?ie=UTF8&tag=mybuwa-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1449322131)
 
 ### 🏆  Reach me at: **[@greenido](https://twitter.com/greenido)** or [email me](https://ido-green.appspot.com/contact.html)
 
@@ -30,7 +32,7 @@
 
 <center>
   <a href="https://ido-green.appspot.com/" target="_blank">
-    <img src="https://source.unsplash.com/800x600/?surfing" width="800px" alt="surfing fun" />
+    <img src="https://source.unsplash.com/800x600/" width="800px" alt="surfing fun" />
   </a>
 </center>
 
