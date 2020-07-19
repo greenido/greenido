@@ -8,15 +8,15 @@
   </a>
 </center>
 
-- 🔭 These days, I'm having fun as VP of Technology at [JFrog](https://jfrog.com)
+- 🔭  These days, I'm having fun as VP of Technology at [JFrog](https://jfrog.com)
 
-- 💻 My projects are available at [ido-green.appspot.com](https://ido-green.appspot.com)
+- 💻  My projects are available at [ido-green.appspot.com](https://ido-green.appspot.com)
 
-- 📝 I write on [greenido.wordpress.com](https://greenido.wordpress.com)
+- 📝  I write on [greenido.wordpress.com](https://greenido.wordpress.com)
 
-- 📫 Reach me at: **[@greenido](https://twitter.com/greenido)** or [email me](https://ido-green.appspot.com/contact.html)
+- 📫  Reach me at: **[@greenido](https://twitter.com/greenido)** or [email me](https://ido-green.appspot.com/contact.html)
 
-- ⚡ Fun fact **⛰🏃🏽‍♂️🚴🏽‍♂️🏊🏼‍♂️🏄🏼‍♂️**
+- ⚡  Fun fact **⛰🏃🏽‍♂️🚴🏽‍♂️🏊🏼‍♂️🏄🏼‍♂️**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=greenido&show_icons=true" alt="greenido" /> </p>
 
