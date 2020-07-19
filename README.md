@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ido</h1>
+<h1 align="center">Hey 👋 </h1>
 
 <h3 align="center">Curious entrepreneur and a runner, who loves to build stuff and help developers. </h3>
 
@@ -27,3 +27,5 @@
 <a href="https://linkedin.com/in/greenido" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="greenido" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/784439/ido-green" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/784439/ido-green" height="20" width="20" /></a>
 </p>
+
+<h3>Be Strong</h3>
