@@ -32,7 +32,7 @@
 
 <center>
   <a href="https://ido-green.appspot.com/" target="_blank">
-    <img src="" width="800px" alt="" />
+    <img src="https://github.com/greenido/greenido/blob/master/whistler-2019.png?raw=true" width="800px" alt="the mountains" />
   </a>
 </center>
 
