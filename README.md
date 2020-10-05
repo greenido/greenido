@@ -8,8 +8,6 @@
   </a>
 </center>
 
-#### 🔭  - These days, I'm having fun as VP of Technology at [JFrog](https://jfrog.com)
-
 #### 💻  - My projects are available at [ido-green.appspot.com](https://ido-green.appspot.com)
 
 #### 📒  - I write on [greenido.wordpress.com](https://greenido.wordpress.com)
