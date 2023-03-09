@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 </h1>
 
-<h3 align="center">Curious entrepreneur and a runner, who loves to build stuff and help developers. </h3>
+<h3 align="center">Curious entrepreneur and a runner, who loves to build and help developers. </h3>
 
 <center>
   <a href="https://ido-green.appspot.com/" target="_blank">
