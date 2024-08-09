@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 </h1>
 
-<h3 align="center">Entrepreneur</h3>
+<h3 align="center">Tech executive & entrepreneur with a proven track record</h3>
 
 <center>
   <a href="https://ido-green.appspot.com/" target="_blank">
