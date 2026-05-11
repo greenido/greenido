@@ -43,9 +43,7 @@
 
 ## Web Projects From Google Days
 
-- 🌐 [Main Site](https://ido-green.appspot.com/index.html)
-- 🤖 [Bots Page](https://ido-green.appspot.com/bots.html)
-- 📬 [Contact Page](https://ido-green.appspot.com/contact.html)
+- 🌐 [Site](https://ido-green.appspot.com/index.html)
 - 🚀 [Startups Page](https://ido-green.appspot.com/startups.html)
 - 🕒 [Clock Demo](https://ido-green.appspot.com/clock.html)
 - 🎙️ [Podcast 4 Developers](https://ido-green.appspot.com/podcast4developers/index.html)
