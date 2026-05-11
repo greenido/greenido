@@ -18,8 +18,6 @@
 
 ### 🏁  - What is "Fun Time" = ⛰ - 🏃 - 🚴 - 🏊 - 🏄
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=greenido&show_icons=true" alt="greenido" /> </p>
-
 <center>
   <a href="https://ido-green.appspot.com/" target="_blank">
     <img src="https://github.com/greenido/greenido/blob/master/whistler-2019.png?raw=true" width="800px" alt="the mountains" />
