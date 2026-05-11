@@ -55,8 +55,6 @@
 - 🕒 [Clock Demo](https://ido-green.appspot.com/clock.html)
 - 🎙️ [Podcast 4 Developers](https://ido-green.appspot.com/podcast4developers/index.html)
 - ⏱️ [HTML5 Time Tracker](https://ido-green.appspot.com/html5timetracker/index.html)
-- 💪 [Pull-Ups Game](https://ido-green.appspot.com/pull-ups/pull-ups-game.html)
-- 🖼️ [Flickr Demo](https://ido-green.appspot.com/flickr/ido-flickr.html)
 - ☁️ [Cloud Endpoints Web Blog Post](https://ido-green.appspot.com/CloudEndpoints/CloudEndpointsWebBlogPost.html)
 
 ## Demos And Experiments
@@ -71,8 +69,6 @@
 ## Old Projects
 
 - 🛣️ [RoadShow](https://ido-green.appspot.com/RoadShow.html)
-- 🛣️ [RoadShow R](https://ido-green.appspot.com/RoadShow_r.html)
-- 🛣️ [O RoadShow 1](https://ido-green.appspot.com/O_RoadShow-1.html)
 - 🧪 [Main Page Variant](https://ido-green.appspot.com/main.html)
 - 🗂️ [Legacy Homepage Snapshot](https://ido-green.appspot.com/index_2015_11_7_o.html)
 - 📚 [Wikipedia Test](https://ido-green.appspot.com/wikipidia-test.html)
