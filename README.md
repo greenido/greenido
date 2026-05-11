@@ -16,17 +16,9 @@
 
 #### 🏆  - Reach me at: **[@greenido](https://twitter.com/greenido)** or [email me](https://ido-green.appspot.com/contact.html)
 
-### 🏁  - Fun Time: ⛰ - 🏃 - 🚴 - 🏊 - 🏄
+### 🏁  - What is "Fun Time" = ⛰ - 🏃 - 🚴 - 🏊 - 🏄
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=greenido&show_icons=true" alt="greenido" /> </p>
-
-<p align="center">
-<a href="https://codepen.io/greenido" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="greenido" height="20" width="20" /></a>
-<a href="https://dev.to/greenido" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="greenido" height="20" width="20" /></a>
-<a href="https://twitter.com/greenido" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="greenido" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/greenido" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="greenido" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/784439/ido-green" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/784439/ido-green" height="20" width="20" /></a>
-</p>
 
 <center>
   <a href="https://ido-green.appspot.com/" target="_blank">
