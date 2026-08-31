@@ -37,6 +37,7 @@
 - 🤖 [AI Security Compliance](https://greenido.github.io/ai-security-compliance-news/)
 
 ## Productivity & Automation
+- 🗺️ [WhatsApp Local Dashboard](https://github.com/greenido/wacrawl-ui)
 - 📝 [Slack to Notion EOD](https://github.com/greenido/slack-2-notion-EOD-reports)
 - 📰 [Techmeme to Telegram/Slack](https://github.com/greenido/techmeme-2-slack)
 - 📧 [Gmail Surge](https://gmailsurge.com/)
